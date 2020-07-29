@@ -1,0 +1,255 @@
+Types of DS Tools
+
+    Execution Environments
+    Data Asset Management
+    Data Management
+    Data Integration and Transformation aka ETL
+    Data Visualization
+    Model Building
+    Model Deployment
+    Model Monitoring and Assessment
+    Code Asset Management
+    Development Environments
+    Fully Integrated Visual Tools
+
+Open Source Tools
+
+    SQL
+        Mysql
+        mssql
+        mongodb
+        couchdb
+        cassandra
+        ceph
+        hadoop
+        elastic
+    
+    Extract, Transform, and Load
+    Extract, Load, Transform
+    Data Refining and Cleaning
+
+    Apache Airflow
+    Kubeflow
+    Apache kafka
+    Apache nifi
+    Apache Spark SQL
+    Node-RED
+
+    Hue
+    kibana
+    Apache Superset
+
+    PredictionIO
+    Seldon
+    mleap
+    tensorflow
+
+    tensorflow lite
+    tensorflow.js
+
+    Model Monitoring
+        ModelDB
+        Prometheus
+        AI Fairness 360 Open Source Toolkit
+        Adversarial Robustness 360 Toolbox
+        AI Explainability 360
+
+    Code Asset Management   
+
+        git
+        github
+        gitlab
+        bitbucket
+
+    Data Asset Management
+
+        Apache Atlas
+        ODPi Egeria
+        Kylo
+
+    Development Environments
+        jupyter
+        jupyter lab
+        Apache Zeppelin (integrated plotting)
+        R Studio
+
+    Execution Environments 
+        Apache Spark
+        Flink
+        riselab Rey
+
+    Fully Integrated Visual Tools
+        KNIME
+        Orange
+
+Commercial tools
+
+    ETL 
+        Informatice
+        Infosphere datastage
+        talend
+        Watson Studio - Data Refinery
+
+    Data Visualization
+        Tableau
+        MS PowerBI
+        IBM Cognos Analytics
+
+    ML 
+        SPSS Modeler
+        SAS Miner
+
+    Data Asset Management
+        Informatica
+        IBM InfoSphere Information Governance Catalog
+
+Cloud Based Tools
+
+    Azure Machine Learning
+    Watson Studio
+    Open Scale
+
+   AWS DynamoDB
+
+   Cloudant (Apache Couch DB Based)
+
+   Db2
+
+    ETL 
+        Informatica
+        IBM Data Refinery
+
+    Data Visualization
+
+        Datameer
+        IBM Cognos
+
+
+        
+Python Libraries
+
+Scientific Computing Libraries
+    Pandas
+        Data structures and tools
+    Numpy
+        Arrays and matrices
+Visualization Libraries
+    Matplotlib
+        plots and graphs (most popular)
+    Seaborn
+        plots like heat maps, time series, elastic
+Machine Learning
+    scikit-Learning
+        machine learning, regression, classification, etc.
+    keras
+        deep learning neural networks
+Deep learning Libraries
+    tensorflow
+        production and Deployment (complicated)
+    pytorch
+        deep learning, regression etc (simplier than tensorflow)
+    apache Spark
+        cluster library
+
+Scala Libraries
+    Vegas
+        data visualization 
+    BigDL
+        Deep learning
+R 
+    ggplot2
+        visualization
+
+
+APIs
+    Lets two pieces of software talk to each other
+
+    REST = representational state transfer 
+
+What is a dataset?
+
+    Structured collection of data
+
+        tabular data - rows and columns (think csv)
+        hierarchiacal data, network data
+        raw files 
+
+Data ownership
+
+    Private data
+        confidential
+        private or persoanl Informationcommercially sensitive
+
+        open data
+        scientific institutions
+        governments
+        organizations
+        companies
+        publicly available
+
+Where to find open data?
+    datacatalogs.org 
+    data.un.org
+    data.gov 
+    europeandataportal.eu/en 
+    kaggle.com 
+    datasetsearch.research.google.com 
+
+Community Data License Agreement 
+    used to be covered under open source licensing
+
+    cdla.io - linux foundation project 
+    cdla sharing = use and modify, but you must also give same permissions
+    cdla permissive, use and modify, but you don't have to give same permissions 
+
+    If you train a model, that is NOT part of the license, meaning you don't have to give it to anyone
+    
+Data asset exchange aka DAX 
+    curated collection of data set built by IBM 
+
+supervised learning 
+    human provides input data and the correct outputs.
+    the model finds the relationships and make predictions 
+
+    Regression
+        predict real numerical values, like home sales prices, ostock market prices
+
+        classification
+            classify things into categories
+                train to find spam, etc.
+        
+        unsupervised learning 
+            data is not labeled
+            model tries to id patterns without external help
+
+        
+            clustering, anomaly detection
+
+            clustering example, recommendation engines.
+            anomaly detection, finds outliers 
+
+        Reinforcement learning
+            conceptually similar to human learning process
+
+            this is how you teach a computer chess 
+
+        Deep Learning 
+            tries to emulate how a brain works
+
+                applications 
+                    NLP
+                    image, audio, video analysus
+                    time series forcasting
+                    much more.
+
+            typically requires large amounts of labeled data 
+
+            tensorflow, pytorch, keras 
+
+            "model zoo" 
+
+MAX
+    free, open source deep learning microservices
+
+    
+
