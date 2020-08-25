@@ -1,0 +1,29 @@
+<ExtractManifest>
+  <ZipFileName>extract_public_2018_20200825003448226_69851_20190101-20191231Texas.zip</ZipFileName>
+  <Timestamp>2020-08-25 06:53:47.993 UTC</Timestamp>
+  <Encrypted>true</Encrypted>
+  <FileEntries>
+    <Entry>
+      <FileName>extract_public_2018_20200825003448226_69851_20190101-20190301Texas.zip</FileName>
+    </Entry>
+    <Entry>
+      <FileName>extract_public_2018_20200825003448226_69851_20190302-20190424Texas.zip</FileName>
+    </Entry>
+    <Entry>
+      <FileName>extract_public_2018_20200825003448226_69851_20190425-20190618Texas.zip</FileName>
+    </Entry>
+    <Entry>
+      <FileName>extract_public_2018_20200825003448226_69851_20190619-20190816Texas.zip</FileName>
+    </Entry>
+    <Entry>
+      <FileName>extract_public_2018_20200825003448226_69851_20190817-20191009Texas.zip</FileName>
+    </Entry>
+    <Entry>
+      <FileName>extract_public_2018_20200825003448226_69851_20191010-20191201Texas.zip</FileName>
+    </Entry>
+    <Entry>
+      <FileName>extract_public_2018_20200825003448226_69851_20191202-20191231Texas.zip</FileName>
+    </Entry>
+  </FileEntries>
+  <DeletedCrashes/>
+</ExtractManifest>
